@@ -1,6 +1,6 @@
 # Ethnus MERN B17 Music Streaming Service 🎵
 
-### ✨ [Live Demo]([srijit-music.tech](https://www.srijit-music.tech/))
+### ✨ [Live Demo](https://www.srijit-music.tech/)
 
 ## Overview
 
