@@ -22,7 +22,7 @@ Expected Outcomes - Understanding of streaming protocols, user authentication, p
 
 Built on the MERN Stack with `NodeJs` `ReactJs` `Express` `Tailwind CSS` `Firebase` and `MongoDB` for Database Management and storage.
 
-## Team Members
+## Team Members (VIT Bhopal)
 
 👤 **Nigam Mulchandani (20BCE10201)** <br/>
 👤 **Srijit Mishra (20BCE10203)** <br/>
