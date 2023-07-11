@@ -26,7 +26,7 @@ Built on the MERN Stack with `NodeJs` `ReactJs` `Express` `Tailwind CSS` `Fireba
 
 👤 **Nigam Mulchandani (20BCE10201)** <br/>
 👤 **Srijit Mishra (20BCE10203)** <br/>
-👤 **Abhishek prajapati (20BCE10208)** <br/>
+👤 **Abhishek Prajapati (20BCE10208)** <br/>
 👤 **Satyam Singh (20BCE10215)** <br/>
 
 Leave a ⭐️ If you like this project!
