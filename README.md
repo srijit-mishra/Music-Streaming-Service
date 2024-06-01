@@ -24,3 +24,5 @@ Leave a ⭐️ If you like this project!
 ## Screenshot
 
 ![Home](./sc.png)
+![Home](./sc2.png)
+![Home](./sc3.png)
